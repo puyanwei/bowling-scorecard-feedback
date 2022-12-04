@@ -2,9 +2,9 @@
 
 https://bowling-score-card.vercel.app/
 
-![image](https://user-images.githubusercontent.com/14803518/205291630-ff0d8145-a093-450e-bcac-753fe755a5d4.png)
+![image](https://user-images.githubusercontent.com/14803518/205494190-6440aed4-9da2-4bb2-8149-f1cf7cbca76e.png)
 
-![image](https://user-images.githubusercontent.com/14803518/205291586-c9673b48-8a57-454b-9e5f-9875c44c0ced.png)
+![image](https://user-images.githubusercontent.com/14803518/205494272-d3065c0d-76a2-483b-be47-36d725c08c1f.png)
 
 A web app which allows a user to input in the scores of a bowling game.
 
@@ -95,6 +95,6 @@ It's always hard to know where to start, that is backend (i.e the logic) or fron
 
 Glad I finally did it, it is a lot more complex on first appearance! The design can be improved of course, and other features like adding in keyboard inputs for the buttons would be nice. But I'm glad I can put this to rest, and its nice to see the progress I have made in comparison to the other attempts.
 
-Kingpin is an awesome movie!
+Kingpin is an awesome movie if you like comedy!
 
 ![Kingpin-Sequel](https://user-images.githubusercontent.com/14803518/205329589-231aeaeb-9d4a-45b8-b779-30fbd41d85ac.jpg)
